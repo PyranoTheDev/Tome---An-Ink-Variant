@@ -30,6 +30,8 @@ Here's a taster [from the tutorial](https://github.com/inkle/ink/blob/master/Doc
 
 # Getting started
 
+FULL DISCLOSURE: I am not affiliated with Inkle. This is my fork of their engine and the instructions here as of now are for Ink. Tome has not been released yet.
+
 **Download [Inky, our ink editor](https://github.com/inkle/inky), and the follow either:**
 
  * [The basics tutorial](https://www.inklestudios.com/ink/web-tutorial/) if you're non-technical and/or if you'd like to use ink to make a web-based interactive fiction game
